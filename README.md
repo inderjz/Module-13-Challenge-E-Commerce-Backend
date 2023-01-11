@@ -28,15 +28,18 @@
   ## [Installation](#table-of-contents)
 
   To install this project first clone this repo to your computer and install mysql2 and sequelize.
+  
+  <img width="565" alt="Screenshot 2023-01-10 at 7 05 10 PM" src="https://user-images.githubusercontent.com/112728880/211708884-a886ec94-9314-47a5-80b7-0a2a9d4c3877.png">
+
 
   ## [Usage](#table-of-contents)
 
   To utilize this application, a user must first launch the server on a local computer. They must then make database requests using a program like Insomina. To do that use terminal to get into your file path and first use the following command 'npm run seed' and then use the following command 'npm start' and it will start on your local server.
   
-  For more information on how to add screenshots for examples, visit the following website:
-  
-  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
-  
+<img width="568" alt="Screenshot 2023-01-10 at 7 06 06 PM" src="https://user-images.githubusercontent.com/112728880/211708905-a4beef40-8a4e-4280-ac82-7980b9389fb0.png">
+
+  <img width="568" alt="Screenshot 2023-01-10 at 7 06 18 PM" src="https://user-images.githubusercontent.com/112728880/211708910-557313d5-f315-44b3-aff8-1fcc8043ed29.png">
+
   
   ## [License](#table-of-contents)
 
